@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootoneApplication {
 
 	public static void main(String[] args) {
+		//hii koushik
 		SpringApplication.run(SpringbootoneApplication.class, args);
 	}
 
